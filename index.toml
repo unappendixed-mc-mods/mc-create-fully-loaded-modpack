@@ -800,6 +800,11 @@ hash = "9e0cfc6e9bf341be13f220cba649a3420597025aebae9af7e12fa8c452ace24d"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "10905b08f3e0dc8a28a82d90468945afc74d287d3ca4726e3336fa14afb1f698"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "8e5db4a85f18b20122d593a005278fefd04ab4231aa775f1af273d058b77e497"
 metafile = true
