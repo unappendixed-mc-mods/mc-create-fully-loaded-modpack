@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "b125d9b46b0dae1bbeaf250fc041af8b94c8cc7c1fea507a949909a388ef4e18"
+hash = "19470e0ba613da010c86c20f4cea28bd0ed9f8f99f3af29aea6e0008b0ac91bf"
 
 [[files]]
 file = "README.md"
@@ -154,7 +154,7 @@ hash = "0d054c60f6c57e3e351a4512b8e105f4331d9c1ee3fc30b2ed25242525b1d62d"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
-hash = "5dd2b9965e86adea713306cc35711a38c7f83ed48edee0f6b3e868eb10bac4f3"
+hash = "a8694e395753a7019a3e367ed19cd1e6203fda36da59427c20e66a0f5a924874"
 
 [[files]]
 file = "config/effective.json"
@@ -174,7 +174,7 @@ hash = "68b3a14edc3904703377890f597c2e3363522242057cea0e9164f6167c511939"
 
 [[files]]
 file = "config/fabric-tree-chopper.json"
-hash = "1fd1df27cf93d5820173bdf6935043b9a957925aa3e886d614212809e871f83b"
+hash = "f89796b3248f8206a81d414e8e5d21060994ad240450b450de015c2928ce7919"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -238,7 +238,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+hash = "009981edad5c7aad71c8fbb5204ac0f589c4a563f4466946f22aeeb3f513d63f"
 
 [[files]]
 file = "config/iris.properties"
@@ -270,7 +270,7 @@ hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
 file = "config/minihud.json"
-hash = "fb4cd7d7ff0c26067fda6c4e642a32ebe5438226419709511796989978d74ddb"
+hash = "d83037341bb615f79aacea2032cb94cb51256fde4a272aab80de65d468ec514b"
 
 [[files]]
 file = "config/minihud/172.255.251.28_25561.json"

@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run packwiz export tool
-        run: 'packwiz curseforge export'
+        run: 'packwiz curseforge export -o "Create: Fully Loaded v${{ github.ref_name }}'
 
       - name: Attach release
         uses: ncipollo/release-action@v1
