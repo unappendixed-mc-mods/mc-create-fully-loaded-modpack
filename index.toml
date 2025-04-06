@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "8e5db4a85f18b20122d593a005278fefd04ab4231aa775f1af273d058b77e497"
+hash = "8a27b078e902e677fe3a680881cc1265ab8b30aaf9d5cf9ad474ae0d8b045daf"
 metafile = true
 
 [[files]]
