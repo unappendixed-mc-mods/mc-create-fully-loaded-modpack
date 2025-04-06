@@ -587,13 +587,18 @@ hash = "b04bbe0b68adf96480d17f7010c2675d21c1a05bd7ea5df048803b1d37a54149"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "2bdbc69d7ccd94efde0e042237cc7b8bd23e9d374fabfd50d46d5c2745b74d32"
+metafile = true
+
+[[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "f1c7c8543103c27794a448e246ce7b4ed29a792a9bc62cbc4c63c8652127b009"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d6b5b39cfbe821c74aef77da9957b9eed5a76b9554aaed62a2c5f78905e27679"
+hash = "5c477b0cd218ed14c178205ad498aa7f3eb1ec56444c2e760e0413e8d520c064"
 metafile = true
 
 [[files]]
@@ -847,6 +852,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "c5edf1f8114b808f9a63134f2973745b3e4172478b7f0aec5c9359f1325f37da"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "d95f25297492928e39d8228f7f2e94a405f95bbf228ff134d61f361963c7d83d"
 metafile = true
 
 [[files]]
