@@ -724,6 +724,11 @@ hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
 
 [[files]]
+file = "mods/modernkeybinding.pw.toml"
+hash = "410f54914ffeeb07b7fe47f48712db069945297a73c77a3c67c9b405dd30d6a3"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "407a1746052dea96d1ea847aee9fef2ec9bd40548217ea366d1ebe2a2a4f9ce9"
 metafile = true
