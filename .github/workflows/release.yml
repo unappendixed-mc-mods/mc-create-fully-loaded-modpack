@@ -1,0 +1,21 @@
+name: Create release
+on: 
+  push:
+    tags:
+      - '*'
+jobs:
+  Create-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install packwiz tool
+        run: 'go install github.com/packwiz/packwiz@latest'
+        env:
+          GOBIN: /usr/bin
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+      - name: Run packwiz export tool
+        run: 'packwiz curseforge export'
+      - name: Attach release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "Create Fully Loaded-*.zip"
