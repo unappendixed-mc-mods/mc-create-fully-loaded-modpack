@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "b125d9b46b0dae1bbeaf250fc041af8b94c8cc7c1fea507a949909a388ef4e18"
+
+[[files]]
+file = "README.md"
+hash = "60793b0a1103672202bc7463bc4a7770c94a181f64406a140c9ce62989828880"
+
+[[files]]
 file = "config/YungsExtras/README.txt"
 hash = "2e494050535555835f5d0cc89bde1207711e208e9a190ce9dce798ad80d5216f"
 
@@ -166,7 +174,7 @@ hash = "68b3a14edc3904703377890f597c2e3363522242057cea0e9164f6167c511939"
 
 [[files]]
 file = "config/fabric-tree-chopper.json"
-hash = "aff9e3dcffb2720ed6130e38621b1ad1e00312f3aa1bc5489683b40881b8881d"
+hash = "1fd1df27cf93d5820173bdf6935043b9a957925aa3e886d614212809e871f83b"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -716,7 +724,7 @@ hash = "db58c6f4f05828708acf176df67fda75f3f205dc8df567d0fc5d5a5988d9077b"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "823120083f8e912c523a148c17c83f514b657dd14e55af9a1ad06228a2754cf3"
+hash = "c5fbd8477853fd1b926a1e2b7da26e9e35c6a70dacee284b94942ae19a7f0cea"
 metafile = true
 
 [[files]]
