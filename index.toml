@@ -515,6 +515,11 @@ hash = "e687533f6b1999fdc4649a7990157a1f54f24e7ac2ad518162b591d5c98dd94a"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "78a55cd6aa6ac75610e8273cee84077e7ed3ef1503c4648d59b63a63f0e00cb2"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "370d1a19b0814e8c9a4d534380b9a8e8083001adb010c500da37bba0615e8081"
 metafile = true
