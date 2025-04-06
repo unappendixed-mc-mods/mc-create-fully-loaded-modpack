@@ -465,6 +465,11 @@ file = "config/yungsextras-fabric-1_19.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "3231239335b43ec21a20de1ddd1af883aecd169ae42d60bbdd9652bf1f72e184"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "cfb264629e2f3049c5afc3c1b40c8d7395a1813ede2c1c43b3ec761ca62548ef"
 metafile = true
@@ -805,11 +810,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "10905b08f3e0dc8a28a82d90468945afc74d287d3ca4726e3336fa14afb1f698"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "8a27b078e902e677fe3a680881cc1265ab8b30aaf9d5cf9ad474ae0d8b045daf"
 metafile = true
 
 [[files]]
