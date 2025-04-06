@@ -3,7 +3,7 @@
 	"fullChopDurabilityUsage": "BREAK_MID_CHOP",
 	"sneakBehavior": "DISABLE_CHOPPING",
 	"requireLeavesToChop": true,
-	"treeChopMode": "SINGLE_CHOP",
+	"treeChopMode": "ALL-CHOP",
 	"logSearchLimit": 1000,
 	"stopBeforeAxeBreak": true,
 	"chopInCreativeMode": false,
@@ -15,5 +15,5 @@
 		"minecraft:diamond_axe",
 		"minecraft:netherite_axe"
 	],
-	"variableBreakingTime": false
+	"variableBreakingTime": true
 }
