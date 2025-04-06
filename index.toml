@@ -567,11 +567,6 @@ hash = "4eb6b3a5242af63efc9ce72f08ab3c3b89e733d152d67f4a1daaab26610efb9e"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "1c50e8ed5f4eacc908b1c23f30b2c2cee204c8a26e3fb16907734c72a9ff7b97"
-metafile = true
-
-[[files]]
 file = "mods/emerald-geodes.pw.toml"
 hash = "9adde0c8eb2871a215e00bd005992445bd4c99880d487f59bcc291b227c5b5cf"
 metafile = true
