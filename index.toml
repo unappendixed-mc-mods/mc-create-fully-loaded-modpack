@@ -466,7 +466,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "3231239335b43ec21a20de1ddd1af883aecd169ae42d60bbdd9652bf1f72e184"
+hash = "bb422a2a6b728aaacaac289cbd4eea4c4e0e24b6626fdd46206931a98c02f66c"
 metafile = true
 
 [[files]]
@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka.pw.toml"
-hash = "2bdbc69d7ccd94efde0e042237cc7b8bd23e9d374fabfd50d46d5c2745b74d32"
+hash = "394bbdd4a510a4d9232f863eedf23098cb978a9487994148bd99637c62cad03d"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5c477b0cd218ed14c178205ad498aa7f3eb1ec56444c2e760e0413e8d520c064"
+hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
 metafile = true
 
 [[files]]
@@ -729,7 +729,7 @@ hash = "db58c6f4f05828708acf176df67fda75f3f205dc8df567d0fc5d5a5988d9077b"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "0beb1d2711622631eb28b0ba50fe25fab29983ffeb45a08882c74bb548d26dc9"
+hash = "daad5b565fdb5b5aa146391e4ba26ac5ed5405ec0e24b4fba50137e7784c9264"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "10905b08f3e0dc8a28a82d90468945afc74d287d3ca4726e3336fa14afb1f698"
+hash = "371b15197aebdcdb521885b1815f89ac7a50a86e8f0603858f830dd8209df7d6"
 metafile = true
 
 [[files]]
@@ -829,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "d4acddd9dbe8063560fa281eb07898471841df72832e6068015cb742928f2e90"
+hash = "9935c28818a5f59c6fdae627cd6148ac98aea78f7d4c21366212743dc73b91c8"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "d95f25297492928e39d8228f7f2e94a405f95bbf228ff134d61f361963c7d83d"
+hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
 metafile = true
 
 [[files]]
