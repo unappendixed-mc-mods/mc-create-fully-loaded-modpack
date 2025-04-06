@@ -1,0 +1,13 @@
+name = "Create Fully Loaded"
+author = "Unappendixed"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b9281a5f87b24e38a5297c1990aa08ff9c6a0e3a4e1a023e420b0b74701e6a76"
+
+[versions]
+fabric = "0.14.25"
+minecraft = "1.19.2"

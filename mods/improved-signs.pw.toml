@@ -1,0 +1,13 @@
+name = "Improved Signs"
+filename = "improvedsigns-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69f284ed838fe45230700ce2ff9e9a9b9f1c8382"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4000280
+project-id = 384963
