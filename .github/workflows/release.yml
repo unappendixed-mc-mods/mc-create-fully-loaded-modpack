@@ -6,6 +6,8 @@ on:
 jobs:
   Create-release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Set up GOBIN and PATh
         run: |
