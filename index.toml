@@ -738,6 +738,11 @@ file = "mods/moonlight-1.19.2-2.3.5-fabric.jar"
 hash = "db58c6f4f05828708acf176df67fda75f3f205dc8df567d0fc5d5a5988d9077b"
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "df5d311dc2b08556afa338e43b69abb71448644375dd892a3dc97d455f28203c"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "daad5b565fdb5b5aa146391e4ba26ac5ed5405ec0e24b4fba50137e7784c9264"
 metafile = true
