@@ -117,6 +117,10 @@ file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
+file = "config/carryon-common.json"
+hash = "07b61ffb5063c7df3e28d824fe1a166b616e142e5ef0c3cc13e197cd6a61ecb0"
+
+[[files]]
 file = "config/clienttweaks.toml"
 hash = "943e6c1940af37757cbe63fa329ab93e3b20e335e0983dae4cb83e191d9c4a22"
 
