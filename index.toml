@@ -544,11 +544,6 @@ hash = "7833229c4c91bc44aa2a91334a26af977f34d226c6f93a227fb3719d8f84a709"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "8a00977f647223efded431d07944baf9fda47b79ffb013d196cdd96208e3aac0"
 metafile = true
@@ -611,11 +606,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "38cad400d89f84832c9bf1ec340aec0f37e37aac176b312a352dfcede21ef167"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "cefa9957d308de6ca36efbe12b007c07a1726d1561bc273e60c619c80c745da4"
 metafile = true
 
 [[files]]
