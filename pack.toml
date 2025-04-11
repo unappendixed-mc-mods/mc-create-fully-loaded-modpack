@@ -1,4 +1,4 @@
-name = "Create Fully Loaded"
+name = "Create: Fully Loaded"
 author = "Unappendixed"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9456f49ebe3faf504af7a8afeeef046f6f69c14c51ec98060e20e25eb4702982"
+hash = "8d8bdb5e162367a2e30a4a95201f983308ed17b6814f65ac97df877ce62c2ee7"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.146"
-
-[options]
-acceptable-game-versions = ["1.21.1"]
