@@ -1,0 +1,13 @@
+name = "ExtraSounds Next"
+filename = "ExtraSoundsNext-neoforge-1.21.1-1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jv7tzVE4/versions/tX3GsOVb/ExtraSoundsNext-neoforge-1.21.1-1.4.jar"
+hash-format = "sha1"
+hash = "ca4de73892009546855c8a6e47b18a75c661ffd6"
+
+[update]
+[update.modrinth]
+mod-id = "jv7tzVE4"
+version = "tX3GsOVb"

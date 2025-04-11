@@ -1,0 +1,13 @@
+name = "WI Zoom"
+filename = "WI-Zoom-1.6-MC1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o7DitHWP/versions/NBm3hI80/WI-Zoom-1.6-MC1.21.1-NeoForge.jar"
+hash-format = "sha1"
+hash = "6b2079c846ffd0573a8fd9adf6e99b8325ab4ab6"
+
+[update]
+[update.modrinth]
+mod-id = "o7DitHWP"
+version = "NBm3hI80"

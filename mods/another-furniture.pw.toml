@@ -1,13 +1,13 @@
 name = "Another Furniture"
-filename = "another_furniture-fabric-1.19.2-2.1.4.jar"
+filename = "another_furniture-neoforge-4.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ulloLmqG/versions/QB6CceI5/another_furniture-neoforge-4.0.0.jar"
 hash-format = "sha1"
-hash = "b4c10f57796cf38b6fee9827c5d2aa51db5d3fdb"
-mode = "metadata:curseforge"
+hash = "1639452103c6477b0be6a34876b7d59f51274120"
 
 [update]
-[update.curseforge]
-file-id = 4675542
-project-id = 610492
+[update.modrinth]
+mod-id = "ulloLmqG"
+version = "QB6CceI5"

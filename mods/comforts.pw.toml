@@ -1,0 +1,13 @@
+name = "Comforts"
+filename = "comforts-neoforge-9.0.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/duBFOcde/comforts-neoforge-9.0.3%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "7740cb649102deecaad23a139205c13e7da4b74c"
+
+[update]
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "duBFOcde"
