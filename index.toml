@@ -158,7 +158,7 @@ hash = "0d054c60f6c57e3e351a4512b8e105f4331d9c1ee3fc30b2ed25242525b1d62d"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
-hash = "a8694e395753a7019a3e367ed19cd1e6203fda36da59427c20e66a0f5a924874"
+hash = "3594f3a665a585dff57c5fa52bb33e3f1f7cbd6f29b23b564b6c083323e9bede"
 
 [[files]]
 file = "config/effective.json"
@@ -474,6 +474,15 @@ hash = "1c33080f06aea76324850076e9fe1a39f9c45af968adb4a67765dce9c1bf1dc8"
 metafile = true
 
 [[files]]
+file = "mods/PresenceFootsteps-1.10.3+1.21.1-all.jar"
+hash = "a4120219f7dd729dc7071cb13a55e438f3175eb6c9aab84d5d0d3b69fa4611b8"
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "6de6b15bcbc6201f3b190556f8762ce606349bb91c65453a011e90fd50f49da8"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "5b7d367f920f1135c2c150e3cf511bca07f0e6eefcbdd95b8a76e7785c0204e7"
 metafile = true
@@ -510,12 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "e3b5e4409c18ca64e23edff09ae378372735c8b81ed4164da01be3556fb7a4e7"
-metafile = true
-
-[[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "390d11465173ed1750555d666bc2a7ce095d8a6ae022ae03babfb50734af8be7"
+hash = "7d3936e2d0a69c3b4348c6b37e78a5f7e1f2a8b9870419c6a31f3a74d09bb980"
 metafile = true
 
 [[files]]
@@ -531,11 +535,6 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "4dc3d777540e1b1724d437b147c9936b4005a0dd50f8dbeabaf38b8dbf0e6e29"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "22d24077d94a512cb95bfe0394bd94733c46bfbe423e3cf907320f0f266bba5b"
 metafile = true
 
 [[files]]
@@ -564,8 +563,8 @@ hash = "324b1a55245b5814488d9ce5ed62b675daaa2b077895cd964cb271cdcdb8e858"
 metafile = true
 
 [[files]]
-file = "mods/emerald-geodes.pw.toml"
-hash = "9adde0c8eb2871a215e00bd005992445bd4c99880d487f59bcc291b227c5b5cf"
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "60db8c4b5d3c29421f7deac988c2b4a67c546c786fba77e125000ec19b118e84"
 metafile = true
 
 [[files]]
@@ -591,11 +590,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "1e37fc9a0dc04ca8dc84bfb99566135fa924ce3823c986bb1a633874496e3101"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "cf203357238233f00eea0bc914cbab834c07893b893024318eeaee54ac03b1be"
 metafile = true
 
 [[files]]
@@ -639,10 +633,6 @@ hash = "48c4a85a9fa803b35fa6145b711229c64aa66edc77943f0c96787fcdcf0a93d2"
 metafile = true
 
 [[files]]
-file = "mods/moonlight-1.19.2-2.3.5-fabric.jar"
-hash = "db58c6f4f05828708acf176df67fda75f3f205dc8df567d0fc5d5a5988d9077b"
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "c99ffa42849ad21b8300efe2d53afafa80fff89ddb94bb95e31958765af5ad86"
 metafile = true
@@ -673,8 +663,8 @@ hash = "64738b1594dc3753ed9a5e10420fadfcec61013d048cefc1ce94ddb540f8097e"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-forge.pw.toml"
-hash = "c4ad444cece23708038591eebf695a488155f959103121d69da79feabf2e358a"
+file = "mods/presence-footsteps-neoforge.pw.toml"
+hash = "5aa5f803860e8bfd8db77317575f66e91c0f826c74ec1a141dbc4587b60950fe"
 metafile = true
 
 [[files]]
@@ -700,11 +690,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "bc0818ccc11357d91ceea28acf35a92654b85db6cfc5f0ae832bdde8a09b4678"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
@@ -800,6 +785,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "6efd0841c48e4e5e58b95fdc3038ee8ace0f97d787d7e57fe6d2e2ab78503fb2"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b9dd1c2c60f949f32bdfd8ee85ef9075a30ba4ce2f01f685808f446e55f587c5"
 metafile = true
 
 [[files]]
