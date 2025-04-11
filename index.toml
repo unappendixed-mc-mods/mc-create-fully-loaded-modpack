@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
+hash = "22d24077d94a512cb95bfe0394bd94733c46bfbe423e3cf907320f0f266bba5b"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c604862c7db098f8edcfa6aa1ebc4e235b3008fdbc61450c0da9c3c234513a54"
+hash = "cf203357238233f00eea0bc914cbab834c07893b893024318eeaee54ac03b1be"
 metafile = true
 
 [[files]]
@@ -615,12 +615,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "8aefbf1a210f9a35114e081d241b97bb4d75ed6354f6f8cd9b489c2f28371e3f"
+hash = "cefa9957d308de6ca36efbe12b007c07a1726d1561bc273e60c619c80c745da4"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+hash = "53eed9c9eb401d9ad6f92a8196455194a0db14e7bf2753ff7707d6db1b269968"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ hash = "db58c6f4f05828708acf176df67fda75f3f205dc8df567d0fc5d5a5988d9077b"
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "10af7e9cca305056ae02d9b0155a3e2322edefda78b2ddfcd91cf66f32a46d70"
+hash = "c99ffa42849ad21b8300efe2d53afafa80fff89ddb94bb95e31958765af5ad86"
 metafile = true
 
 [[files]]
@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality-forge.pw.toml"
-hash = "753745ebdd476d1b75252027f8cbbbba7334a71c49f9803652a53f5af111232c"
+hash = "753c138dd144243802e7ab9a15d2070001138236f61c2d8257d946526941e201"
 metafile = true
 
 [[files]]

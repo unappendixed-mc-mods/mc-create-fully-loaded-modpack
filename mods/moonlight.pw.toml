@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/twkfQtEc/versions/rC8WgcRV/moonlight-1.21-2.18.5-neoforge.jar"
-hash-format = "sha512"
-hash = "23409c0c6ce05c04fb46211802bd8b3a0314051cbad405b4fe2687bd9ed0b3969ac85c0c2dba9ef286c9fbcba363cd3c6007e8307cd48f52a169378c50a33c82"
+hash-format = "sha1"
+hash = "a3f2170bc146786b2c044c20a76fc6c545fba7dd"
 
 [update]
 [update.modrinth]

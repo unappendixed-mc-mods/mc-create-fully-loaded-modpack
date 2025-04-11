@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/VD1aynYU/versions/UJQxusE8/inventory-tabs-1.4.2%2B1.21.jar"
-hash-format = "sha512"
-hash = "ac7861262581021e1145a9514289ce222cdb0119dc90250dc002d8f855eabe324eb06ed980514e1e5633d78644ada17e54b3e1cabd00adb670c5b02ff3bd69f0"
+hash-format = "sha1"
+hash = "1587bea13c6a65b626b2af88c36a9671808b0271"
 
 [update]
 [update.modrinth]
