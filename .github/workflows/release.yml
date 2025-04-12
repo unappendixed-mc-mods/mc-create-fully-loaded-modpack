@@ -14,8 +14,11 @@ jobs:
           echo "GOBIN=${HOME}/go/bin" >> "$GITHUB_ENV"
           echo "${HOME}/go/bin" >> "$GITHUB_PATH"
 
-      - name: Install packwiz tool
-        run: 'go install github.com/packwiz/packwiz@latest'
+      - name: Build packwiz from Nadwey fork # only required until PR is merged
+        run: |
+          git clone https://github.com/unappendixed/packwiz
+          cd packwiz
+          go install .
 
       - name: Checkout repository code
         uses: actions/checkout@v4
