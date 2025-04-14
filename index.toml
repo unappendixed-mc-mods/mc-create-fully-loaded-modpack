@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "86a3b534803fd84f1210a1f3f8c9620f3a08b21c82c0a9d28d5a020b7ff8f016"
+hash = "493da3c0681649c4c7fd90e948718f2b57f85f1e13e6ddb8bd5e3f81b6056bb7"
 
 [[files]]
 file = "README.md"
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "4e6cce2a40f56a58a5dffa924b05a27b7cc618c4c9afd611e5a2ff247a5a1065"
+hash = "60db8c4b5d3c29421f7deac988c2b4a67c546c786fba77e125000ec19b118e84"
 metafile = true
 
 [[files]]
@@ -857,7 +857,3 @@ hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.6.zip.txt"
 hash = "fb6d91daf8bb4c8c077133d900e7e08e0f6e80f816bf452aa7f82cba2aaad99d"
-
-[[files]]
-file = "typescript"
-hash = "8f7443a6462a0c1ac22ca27f11cbf692fed74f83ef95089bcb429844a4c75875"
