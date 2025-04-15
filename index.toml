@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "493da3c0681649c4c7fd90e948718f2b57f85f1e13e6ddb8bd5e3f81b6056bb7"
+hash = "98eb2e9deae7d62e6ba242486f18afe8b090347ce7efc6d94f65d550d74db36d"
 
 [[files]]
 file = "README.md"
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "60187311fc010bbf513ed8451ff6417f75b6d82f3fef7cbfb9cc296b098ed636"
 metafile = true
 
 [[files]]
@@ -585,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "1e37fc9a0dc04ca8dc84bfb99566135fa924ce3823c986bb1a633874496e3101"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-neoforge.pw.toml"
+hash = "8670b618b9aae328a38083e1934a471b52d158122d1cf86a607565348a2cd56b"
 metafile = true
 
 [[files]]
@@ -650,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d70e7fa2d9d90600ddca5e80444140165e03da3040978c58c7cc5a7f133d075f"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "6687e36a2a2ec20d7a2539df2a1df2b8de8603c19cc768a1053c583c6756b7a1"
 metafile = true
 
 [[files]]
@@ -835,6 +845,14 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "f0cfab923990b4a249993faa0852938be4beaaa1b3663fa30c87f146943d22f8"
+
+[[files]]
+file = "paxi/datapacks/immersive-portal-impl/data/neighbour-portals/custom_portal_generation/copper_portal.json"
+hash = "301d3bd5516106c1354034ffd4fc702a337a1b00a3ec64b68b4fe731b8936803"
+
+[[files]]
+file = "paxi/datapacks/immersive-portal-impl/pack.mcmeta"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.8.zip"

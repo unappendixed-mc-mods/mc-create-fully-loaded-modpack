@@ -1,0 +1,17 @@
+{
+  "schema_version": "imm_ptl:v1",
+  "from": [
+    "imm_ptl:any_dimension"
+  ],
+  "to": "imm_ptl:the_same_dimension",
+  "form": {
+    "type": "imm_ptl:try_hard_to_match",
+    "frame_block": "minecraft:copper_block",
+    "area_block": "minecraft:copper_block",
+    "generate_frame_if_not_found": false
+  },
+  "trigger": {
+    "type": "imm_ptl:throw_item",
+    "item": "minecraft:ender_pearl"
+  }
+}
