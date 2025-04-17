@@ -246,7 +246,7 @@ hash = "009981edad5c7aad71c8fbb5204ac0f589c4a563f4466946f22aeeb3f513d63f"
 
 [[files]]
 file = "config/iris.properties"
-hash = "91b950b31b32cf76c67b022ce6dc6470df0d182d5659ce5ef6e050dba20c2a2d"
+hash = "43d52cd0abb765ffa3462ce9819ea3abb493d361a101305bcbaa0baae73fa9fa"
 
 [[files]]
 file = "config/itemswapper-server-cache.json"
@@ -358,7 +358,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+hash = "9e50b54d4a221ec47d8bb9eafe14b91317cb3506cafc8ff1870f02f78dfb19f9"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f0cfab923990b4a249993faa0852938be4beaaa1b3663fa30c87f146943d22f8"
+hash = "f74237ee4143d46ea0538969914e3f1bbf067f3336eb4309f2d94f7fd8f13a41"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.8.zip"

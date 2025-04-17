@@ -11,7 +11,7 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-showSubtitles:true
+showSubtitles:false
 directionalAudio:false
 touchscreen:false
 fullscreen:false
@@ -31,7 +31,7 @@ simulationDistance:12
 entityDistanceScaling:0.75
 guiScale:3
 particles:1
-maxFps:260
+maxFps:160
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
@@ -187,7 +187,7 @@ key_iris.keybind.reload:key.keyboard.n
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:0.35087696
-soundCategory_music:0.0
+soundCategory_music:0.20
 soundCategory_record:0.20443442
 soundCategory_weather:0.50425833
 soundCategory_block:0.40881932
