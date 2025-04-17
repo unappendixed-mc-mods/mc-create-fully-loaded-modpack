@@ -1,0 +1,10 @@
+#Fri Apr 11 17:01:25 PDT 2025
+shadowMapResolution=1024
+Volumetric_Lighting=true
+Rain_Drops=false
+TAA=false
+polishedRefl=false
+DoF_Strength=20
+Bloom=false
+Depth_of_Field=true
+Godrays=false

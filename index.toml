@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "493da3c0681649c4c7fd90e948718f2b57f85f1e13e6ddb8bd5e3f81b6056bb7"
+hash = "98eb2e9deae7d62e6ba242486f18afe8b090347ce7efc6d94f65d550d74db36d"
 
 [[files]]
 file = "README.md"
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d40e2ce68a8d4bdb88715c87725551191a1e8293e65f543d38969568360dca73"
+hash = "023ba0a16b8092f6711f36d23eb0a08704880650913805176d200e204b7bebee"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "60187311fc010bbf513ed8451ff6417f75b6d82f3fef7cbfb9cc296b098ed636"
 metafile = true
 
 [[files]]
@@ -758,6 +758,11 @@ hash = "753c138dd144243802e7ab9a15d2070001138236f61c2d8257d946526941e201"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "6291e5432fd0f371c7265afc1cd3300fa1bd888dfa2a29f39af5be823a6d1d0e"
+metafile = true
+
+[[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "c91bb1a7c2aaec8a5faf005b876e025f47fe5d38d488e1ec229ab7d95e460bc1"
 metafile = true
@@ -857,3 +862,11 @@ hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.6.zip.txt"
 hash = "fb6d91daf8bb4c8c077133d900e7e08e0f6e80f816bf452aa7f82cba2aaad99d"
+
+[[files]]
+file = "shaderpacks/Sildur's Vibrant Shaders v1.52 High.zip"
+hash = "93d98a79746c8178700e4dcb96a6e8b50f05aa2e8e686be2482c010d027d4dec"
+
+[[files]]
+file = "shaderpacks/Sildur's Vibrant Shaders v1.52 High.zip.txt"
+hash = "e9bd0612b6660fa64e1a845ba14d8f6722727dd9f555c3fa3194f0c9c7bc4d5e"
