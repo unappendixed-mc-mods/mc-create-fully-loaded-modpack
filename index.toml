@@ -441,6 +441,10 @@ file = "config/waila/waila_plugins.json"
 hash = "ee662bc3c842e55498b2c8a421eb2f04fb392da20aaaa1afe4067412e040dc96"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "12ee1263a53ef222538020aa19cdf402ef907e992ee11a2925db8646f95d7ebd"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
