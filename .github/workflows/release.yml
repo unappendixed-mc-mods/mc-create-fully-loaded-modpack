@@ -29,9 +29,11 @@ jobs:
         run: git lfs checkout
 
       - name: Run packwiz export tool
-        run: 'packwiz curseforge export -o "Create: Fully Loaded ${{ github.ref_name }}.zip"'
+        run: |
+          packwiz curseforge export -o "Create: Fully Loaded ${{ github.ref_name }}.zip"
+          packwiz modrinth export -o "Create: Fully Loaded ${{ github.ref_name }}.mrpack"
 
       - name: Attach release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "*.zip"
+          artifacts: "*.zip,*.mrpack"
