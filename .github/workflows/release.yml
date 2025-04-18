@@ -14,7 +14,7 @@ jobs:
           echo "GOBIN=${HOME}/go/bin" >> "$GITHUB_ENV"
           echo "${HOME}/go/bin" >> "$GITHUB_PATH"
 
-      - name: Build packwiz from Nadwey fork # only required until PR is merged
+      - name: Build packwiz from custom fork # only required until PR is merged
         run: |
           git clone https://github.com/unappendixed/packwiz
           cd packwiz
@@ -31,7 +31,7 @@ jobs:
       - name: Run packwiz export tool
         run: |
           packwiz curseforge export -o "Create: Fully Loaded ${{ github.ref_name }}.zip"
-          packwiz modrinth export -o "Create: Fully Loaded ${{ github.ref_name }}.mrpack"
+          packwiz modrinth export --side server -o "Create.Fully.Loaded.server.${{ github.ref_name }}.mrpack"
 
       - name: Attach release
         uses: ncipollo/release-action@v1
