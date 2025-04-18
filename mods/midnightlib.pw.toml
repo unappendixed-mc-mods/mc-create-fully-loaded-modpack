@@ -3,11 +3,11 @@ filename = "midnightlib-1.6.9-neoforge+1.21.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/tUbl6MZ4/midnightlib-1.6.9-neoforge%2B1.21.jar"
 hash-format = "sha1"
 hash = "ae92d43802fb9d1ecc12ec48f7edc9f50d6124a1"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 6222973
-project-id = 488090
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "tUbl6MZ4"
