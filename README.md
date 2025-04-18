@@ -4,9 +4,9 @@ This is effectively a personal fork of the popular
 [Create & Explore](https://www.curseforge.com/minecraft/modpacks/create-explore-c-e)
 modpack, updated to include some interesting Create addons.
 
-## Differences from C&E
+## Differences from C&E (so far)
 
-- Valkyrien Skies + Eureka Ships
+- Switched from Fabric to NeoForge
 - Simple Voice Chat
 
 ## Releases
@@ -19,4 +19,6 @@ and modpacks should be capable of importing this file.
 
 This modpack is maintained and versioned with 
 [packwiz](https://github.com/packwiz/packwiz), a cli tool for managing modpack
-dependencies in a structured way.
+dependencies in a structured way. Currently depends on a custom build of packwiz
+due to [this issue](https://github.com/packwiz/packwiz/issues/295) with 
+NeoForge exports.

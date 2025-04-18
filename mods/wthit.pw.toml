@@ -1,13 +1,13 @@
 name = "WTHIT"
-filename = "wthit-fabric-5.22.2.jar"
+filename = "wthit-neo-12.5.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/tY7R3XHi/wthit-neo-12.5.2.jar"
 hash-format = "sha1"
-hash = "a2d643e5d2c83f0f2ecf84756723e57517cfb5db"
-mode = "metadata:curseforge"
+hash = "de5eb4c7f9025df36ea7274f6a2bb5d030dca87e"
 
 [update]
-[update.curseforge]
-file-id = 5109444
-project-id = 440979
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "tY7R3XHi"

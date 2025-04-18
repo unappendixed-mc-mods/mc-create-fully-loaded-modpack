@@ -14,16 +14,26 @@ jobs:
           echo "GOBIN=${HOME}/go/bin" >> "$GITHUB_ENV"
           echo "${HOME}/go/bin" >> "$GITHUB_PATH"
 
-      - name: Install packwiz tool
-        run: 'go install github.com/packwiz/packwiz@latest'
+      - name: Build packwiz from custom fork # only required until PR is merged
+        run: |
+          git clone https://github.com/unappendixed/packwiz
+          cd packwiz
+          go install .
 
       - name: Checkout repository code
         uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Checkout LFS objects
+        run: git lfs checkout
 
       - name: Run packwiz export tool
-        run: 'packwiz curseforge export -o "Create: Fully Loaded - ${{ github.ref_name }}.zip"'
+        run: |
+          packwiz curseforge export -o "Create: Fully Loaded ${{ github.ref_name }}.zip"
+          packwiz modrinth export --side server -o "Create.Fully.Loaded.server.${{ github.ref_name }}.mrpack"
 
       - name: Attach release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "*.zip"
+          artifacts: "*.zip,*.mrpack"

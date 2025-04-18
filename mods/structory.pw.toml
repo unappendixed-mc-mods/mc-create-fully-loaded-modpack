@@ -1,13 +1,13 @@
 name = "Structory"
-filename = "Structory_1.19.3_v1.3.1a.jar"
+filename = "Structory_1.21.x_v1.3.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aKCwCJlY/versions/vTIX39CE/Structory_1.19.3_v1.3.1a.jar"
+url = "https://cdn.modrinth.com/data/aKCwCJlY/versions/l75DmOwI/Structory_1.21.x_v1.3.10.jar"
 hash-format = "sha1"
-hash = "ae50731f933366dc682bef8b54a637e099235c5b"
+hash = "fa3afdcb1c830536049d4a9282d9101d350eb1ad"
 
 [update]
 [update.modrinth]
 mod-id = "aKCwCJlY"
-version = "vTIX39CE"
+version = "l75DmOwI"
