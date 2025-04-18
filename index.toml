@@ -225,24 +225,8 @@ file = "config/inventory_tabs.json"
 hash = "7b93fe75c3e76813ef6f7654aadc5c308f699af40dc164dd5e628e1393434b0b"
 
 [[files]]
-file = "config/inventoryprofilesnext/172.255.251.28&25561/prev-villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "config/inventoryprofilesnext/172.255.251.28&25561/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "009981edad5c7aad71c8fbb5204ac0f589c4a563f4466946f22aeeb3f513d63f"
+hash = "2afb318e522cc20837dfaef692b59444cf5264e530e47e496efd02bcac717c9d"
 
 [[files]]
 file = "config/iris.properties"
@@ -405,6 +389,14 @@ file = "config/travelerstitles-fabric-1_19.toml"
 hash = "cef7d45f047b6631ecba6e74e657794448acdcfa5ec940c728a1e93fca43e9e4"
 
 [[files]]
+file = "config/treeharvester.json5"
+hash = "054f4986f028da58e0a5e0bb2e61f18e69a0309ceeef73bbcb98c4563c30328e"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "cd40183a1432a0a150645a2a25ad84721f81fd353aa2261f19424186d60f709f"
+
+[[files]]
 file = "config/tweakeroo.json"
 hash = "20408a5a94abdcfc4f9171adfcc2778e1efa3b21886b719b22c751253e90789d"
 
@@ -533,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "08745ab6ac7739865a12d4b4b3a173465adcd198bcbc6ceb6aff661d70280b8b"
+hash = "1d87db84f4f4180aa5ddbd35085d3ee780db9ebc75cc2adf5331249f424102f4"
 metafile = true
 
 [[files]]
@@ -748,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "b1d493b001787b4074512b6d1e2ea36854b634d8d571843d4cfccdd69ae8d188"
+hash = "36943a7faa64b2412c0c9c31d4f9ea480efe2459d8ac87bffb73e4072a1c15d6"
 metafile = true
 
 [[files]]
